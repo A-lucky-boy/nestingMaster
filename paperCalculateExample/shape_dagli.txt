@@ -1,0 +1,7 @@
+NUMBER OF VERTICES
+4
+VERTICES (X,Y)
+0   0
+76   0
+76   60
+0   60
